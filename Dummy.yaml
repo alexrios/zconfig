@@ -1,0 +1,3 @@
+outer:
+  innera: "hello"
+  innerb: "world"
