@@ -1,4 +1,4 @@
-module zconfig
+module github.com/alexrios/zconfig
 
 go 1.12
 
